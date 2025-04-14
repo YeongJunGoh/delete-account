@@ -1,1 +1,1 @@
-# delete-account.html
+# delete-account
